@@ -1,0 +1,10 @@
+{
+	"name": "Example Modlist",
+	"curator": "Petethegoat",
+	"lastUpdated": "June 2018",
+	"description": "This is a simple example modlist to demonstrate basic functionality.",
+	"packages":
+	[
+		"https://raw.githubusercontent.com/Petethegoat/ExampleModlist/master/packages/journal_scroll.json"
+	]
+}
