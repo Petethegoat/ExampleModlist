@@ -1,0 +1,14 @@
+{
+	"name": "Mage Robes",
+	"author": "Melchior Dahrk",
+	"fileURL": "https://api.nexusmods.com/v1/games/morrowind/mods/45739/files/1000010943/download_link",
+	"directoryBlacklist":
+	[
+		"Patches",
+		"Add-Ons"
+	],
+	"specialExtract":
+	{
+		"Patches/Vanilla-Style Robe Enchantments/Mage Robes_Weak.ESP": "Data Files/Mage Robes_Weak.ESP"
+	}
+}
